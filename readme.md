@@ -10,7 +10,7 @@
 
 ## Setup/Installation Requirements
 
-* {https://husseingeo.github.io/}
+* https://husseingeo.github.io/
 
 ## Known Bugs
 
